@@ -8,7 +8,7 @@ class RowToColumn extends StatelessWidget {
 
   final MainAxisAlignment? mainAxisAlignment;
   final MainAxisSize? mainAxisSize;
-  final ? crossAxisAlignment;
+  final CrossAxisAlignment? crossAxisAlignment;
 
   const RowToColumn(
       {Key? key,
